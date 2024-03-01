@@ -12,7 +12,7 @@
 // Set Bluetooth Device Name
 BleKeyboard BleKeyboard("Razorpad D1", "Razorbac", 69);
 
-// ESP32 DEVKITV1
+// ESP32 DEV Module 
 int Button1 = 27; //UP
 int Button2 = 25; //DOWN
 int Button3 = 32; //LEFT
