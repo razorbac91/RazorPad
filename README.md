@@ -16,6 +16,7 @@ The project is actually built with the last ESP32 BleKeyboard 0.3.2-beta from ht
 Some of the inspiration come from:
 - https://github.com/StylesRallyIndustries/RallyController
 - https://jaxeadv.com/barbuttons
+- https://github.com/MartinRV84
 
 Useful link:
 - https://www.drivemodedashboard.com/controller-implementation-guide/
