@@ -16,7 +16,7 @@ Some of the inspiration come from:
 - https://github.com/StylesRallyIndustries/RallyController
 - https://jaxeadv.com/barbuttons
 - https://github.com/MartinRV84
-- - and others around the net i'm surely fotgotting
+- - and others around the net i'm surely fotgetting
 
 Useful link:
 - https://www.drivemodedashboard.com/controller-implementation-guide/
