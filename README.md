@@ -20,3 +20,6 @@ Some of the inspiration come from:
 
 Useful link:
 - https://www.drivemodedashboard.com/controller-implementation-guide/
+
+
+I also uploaded my STL file but be aware they are actually untested cause my Z Axis stepper driver gave up on these days so i can't actualy print it
