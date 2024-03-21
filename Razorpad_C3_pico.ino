@@ -1,5 +1,5 @@
 //  Bluetooth Controller for ESP32
-//    Based on work by NordicRally, Martin Romero, Thomas Styles
+//    Based on work by NordicRally, Martin Romero, Thomas StyleS
 
 // Include Libraries
 #include "esp_bt_main.h"
