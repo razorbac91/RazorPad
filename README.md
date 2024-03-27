@@ -23,3 +23,7 @@ Useful link:
 
 
 I also uploaded my STL file but be aware they are actually untested cause my Z Axis stepper driver gave up on these days so i can't actualy print it
+
+Schematics example for ESP32 C3 Super mini with SKQUCAA010 5 way navigation button and 3 push button:
+
+![schema ESP32 C3 super mini](https://github.com/razorbac91/RazorPad/assets/10536718/92b58544-8144-44de-ac21-65ffeb91a7fb)
