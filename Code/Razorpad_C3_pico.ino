@@ -11,6 +11,7 @@
 
 // Set Bluetooth Device Name
 BleKeyboard BleKeyboard("DMD2 CTL 8K", "Razorbac", 69);
+// BleKeyboard BleKeyboard("PutHereTheNameYouLike", "Razorbac", 69); the DMD2 remote selection settings seems to be back, so you can now choose the name of remote
 
 // ESP32 DEVKITV1
 int Button1 = 5; //UP
