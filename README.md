@@ -12,8 +12,6 @@ The code is actually intended for ESP32 C3 Dev Module (I use a C3 super mini, Lo
 
 The project is actually built with the last ESP32 BleKeyboard 0.3.2-beta from https://github.com/T-vK/ESP32-BLE-Keyboard/releases
 
-NAME OF THE CONTROLLER MUST STAY ON DMD2 CTL 8K SINCE IT ISN'T ACTUALLY CERTIFIED FOR DMD2
-
 Some of the inspiration come from:
 - https://github.com/StylesRallyIndustries/RallyController
 - https://jaxeadv.com/barbuttons
