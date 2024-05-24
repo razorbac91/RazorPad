@@ -29,8 +29,7 @@ I also uploaded my STL file but be aware they are actually untested cause my Z A
 
 Schematics example for ESP32 C3 Super mini with SKQUCAA010 5 way navigation button and 3 push button:
 
-![image](https://github.com/razorbac91/RazorPad/assets/10536718/fb6b67c5-3a9c-4f42-b4b6-5ea17b96bde5)
+![image](https://github.com/razorbac91/RazorPad/assets/10536718/ea5b0c59-9083-4fa6-b867-bcd21fc50e49)
 
-![image](https://github.com/razorbac91/RazorPad/assets/10536718/7b30a73c-8d8b-4389-9ef2-23c3b3c800ac)
 
 
