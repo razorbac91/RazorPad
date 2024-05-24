@@ -86,7 +86,7 @@ Bounce * buttons = new Bounce[NUM_BUTTONS];
 void setup() {
   // Serial
   Serial.begin(115200);
-  Serial.println("Avvio RazorPad C1");
+  Serial.println("Avvio RazorPad C3");
   // bleKeyboard
   BleKeyboard.begin();
   Serial.println("Componente BleKeyboard Avviato");
@@ -95,7 +95,7 @@ void setup() {
     buttons[i].attach( BUTTON_PINS[i] , INPUT_PULLUP  );
     buttons[i].interval(100);
   }
-  Serial.println("RazorPad C1 Avviato");
+  Serial.println("RazorPad C3 Avviato");
 }
 
 // Loop, runs constantly
