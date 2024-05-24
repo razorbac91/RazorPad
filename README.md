@@ -21,7 +21,7 @@ Some of the inspiration come from:
 Useful link:
 - https://www.drivemodedashboard.com/controller-implementation-guide/
 - https://www.mouser.it/datasheet/2/15/skqu-1155891.pdf  5 WAY NAVIGATION SWITCH DATASHEET
-- https://www.adafruit.com/product/4697 % way navigation switch rubber cap for increase water tightening 
+- https://www.adafruit.com/product/4697 5 way navigation switch rubber cap for increase water tightening 
 
 
 
