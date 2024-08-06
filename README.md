@@ -10,6 +10,8 @@ The code is actually intended for ESP32 C3 Dev Module (I use a C3 super mini, Lo
 
 The project is actually built with the last ESP32 BleKeyboard 0.3.2-beta from https://github.com/T-vK/ESP32-BLE-Keyboard/releases/download/0.3.2-beta/ESP32-BLE-Keyboard.zip
 
+Many thanks to @MotoMongrel  for making the tutorials about settings and schematics 
+
 Some of the inspiration come from:
 - https://github.com/StylesRallyIndustries/RallyController
 - https://jaxeadv.com/barbuttons
