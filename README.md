@@ -1,9 +1,6 @@
 
 ![image](https://github.com/razorbac91/RazorPad/assets/10536718/f698e480-2277-45ee-a4cd-efb995287c78)
 
-
-
-
 # RazorPad
 Very simple 8 keys, with 5 way navigation switch, bluetooth controller intended to work with Drive Mode Dashboard 2, Osmand or similar navigation apps
 
@@ -22,9 +19,6 @@ Some of the inspiration come from:
 Useful link:
 - https://www.drivemodedashboard.com/controller-implementation-guide/
 - https://www.mouser.it/datasheet/2/15/skqu-1155891.pdf  5 WAY NAVIGATION SWITCH DATASHEET
-- https://www.adafruit.com/product/4697 5 way navigation switch rubber cap for increase water tightening 
-
-
 
 I also uploaded my STL file but be aware they are actually untested cause my Z Axis stepper driver gave up on these days so i can't actualy print it
 
@@ -70,7 +64,7 @@ Select Board: “Lolin C3 Mini” in Tools/Boards Manager
 - 8mm Waterproof Momentary Buttons: https://www.aliexpress.com/item/1005001644121542.html?spm=a2g0o.order_list.order_list_main.400.75a31802JBM6nc
 - 6mm Blue LED indicator Light (Optional): https://www.aliexpress.com/item/33037940893.html?spm=a-2g0o.order_list.order_list_main.5.1edd1802e15SGl
 
-# HS1 5 Way Joystick Wire & Pin Layout for C3 Super Miniù
+# HS1 5 Way Joystick Wire & Pin Layout for C3 Super Mini
 ![image](https://github.com/user-attachments/assets/1b0dd105-806e-4217-a93a-bab29cc6fcbd)
 
 - 5 Way Castle Joystick: https://ruff ycontrols.com/product/hs1-series/
