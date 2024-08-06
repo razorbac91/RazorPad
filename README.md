@@ -28,9 +28,36 @@ Useful link:
 
 I also uploaded my STL file but be aware they are actually untested cause my Z Axis stepper driver gave up on these days so i can't actualy print it
 
-Schematics example for ESP32 C3 Super mini with SKQUCAA010 5 way navigation button and 3 push button:
+# Arduino IDE settings for compiling Razorpad with C3 SuperMini Board:
 
-![image](https://github.com/razorbac91/RazorPad/assets/10536718/ea5b0c59-9083-4fa6-b867-bcd21fc50e49)
+Arduino Preferences: https://raw.githubusercontent.com/espressif/arduino-esp32/ghpages/package_esp32_index.json
 
+Libraries to install:
+![image](https://github.com/user-attachments/assets/6bd323f6-e0af-47b6-9b4a-c4f2a68e49fb)
+![image](https://github.com/user-attachments/assets/966a3756-8721-4b3b-8cf7-d9e94572f3e3)
+
+Arduino Library: Bounce2 https://github.com/thomasfredericks/Bounce2
+
+Arduino Library: Keyboard https://github.com/T-vK/ESP32-BLE-Keyboard/releases/download/0.3.2-beta/ESP32-BLE-Keyboard.zip
+
+Due to a bug in 0.3.2-beta, a small change needs to be made to
+
+My Documents\Arduino\libraries\ESP32-BLE-Keyboard-0.3.2-beta\BleKeyboard.cpp. (Open in Notepad++ https://notepad-plusplus.org/downloads/)
+
+On line 130 change :
+
+From pSecurity->setAuthenticationMode(ESP_LE_AUTH_REQ_SC_MITM_BOND);
+to pSecurity->setAuthenticationMode(ESP_LE_AUTH_BOND);
+
+FROM
+![image](https://github.com/user-attachments/assets/5ed9cc95-36b2-4fe1-8c95-40c2d3813d5b)
+
+TO
+![image](https://github.com/user-attachments/assets/026f87ed-45cf-458f-abdd-730ed958f070)
+
+Setup Board Manager with 2.0.17 – NOT with 3.0.3
+![image](https://github.com/user-attachments/assets/2e88c748-172d-4978-a878-178c6150066e)
+
+Select Board: “Lolin C3 Mini” in Tools/Boards Manager
 
 
