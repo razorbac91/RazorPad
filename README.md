@@ -63,7 +63,7 @@ Select Board: “Lolin C3 Mini” in Tools/Boards Manager
 - SKQUCAA010 Thru-hole 5-way Navigation Switch: https://www.adafruit.com/product/504
 - Joystick Nubbin Cap: https://www.adafruit.com/product/4697
 - ESP32-C3 Super Mini Board: https://www.aliexpress.com/item/1005006149784075.html?spm=a2g0o.order_list.order_list_main.410.75a31802JBM6nc
-- 8mm Waterproof Momentary Buttons: https://www.aliexpress.com/item/1005001644121542.html?spm=a2g0o.order_list.order_list_main.400.75a31802JBM6nc
+- 12mm Waterproof Momentary Buttons
 - 6mm Blue LED indicator Light (Optional): https://www.aliexpress.com/item/33037940893.html?spm=a-2g0o.order_list.order_list_main.5.1edd1802e15SGl
 
 # HS1 5 Way Joystick Wire & Pin Layout for C3 Super Mini
@@ -71,5 +71,5 @@ Select Board: “Lolin C3 Mini” in Tools/Boards Manager
 
 - 5 Way Castle Joystick: https://ruffycontrols.com/product/hs1-series/
 - ESP32-C3 Super Mini Board: https://www.aliexpress.com/item/1005006149784075.html?spm=a2g0o.order_list.order_list_main.410.75a31802JBM6nc
-- 8mm Waterproof Momentary Buttons: https://www.aliexpress.com/item/1005001644121542.html?spm=a2g0o.order_list.order_list_main.400.75a31802JBM6nc
+- 12mm Waterproof Momentary Buttons
 - 6mm Blue LED indicator Light (Optional): https://www.aliexpress.com/item/33037940893.html?spm=a-2g0o.order_list.order_list_main.5.1edd1802e15SGl
