@@ -55,9 +55,19 @@ FROM
 TO
 ![image](https://github.com/user-attachments/assets/026f87ed-45cf-458f-abdd-730ed958f070)
 
-Setup Board Manager with 2.0.17 – NOT with 3.0.3
 ![image](https://github.com/user-attachments/assets/2e88c748-172d-4978-a878-178c6150066e)
 
+Setup Board Manager with 2.0.17 – NOT with 3.0.3
+
 Select Board: “Lolin C3 Mini” in Tools/Boards Manager
+
+# SKQUCAA010 5 way Wire & Pin Layout for C3 Super Mini
+![image](https://github.com/user-attachments/assets/02abe3b1-cf7d-4908-a3ee-88e812793d36)
+
+- SKQUCAA010 Thru-hole 5-way Navigation Switch: https://www.adafruit.com/product/504
+- Joystick Nubbin Cap: https://www.adafruit.com/product/4697
+- ESP32-C3 Super Mini Board: https://www.aliexpress.com/item/1005006149784075.html?spm=a2g0o.order_list.order_list_main.410.75a31802JBM6nc
+- 8mm Waterproof Momentary Buttons: https://www.aliexpress.com/item/1005001644121542.html?spm=a2g0o.order_list.order_list_main.400.75a31802JBM6nc
+- 6mm Blue LED indicator Light (Optional): https://www.aliexpress.com/item/33037940893.html?spm=a-2g0o.order_list.order_list_main.5.1edd1802e15SGl
 
 
